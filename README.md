@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabbir Ahmed</h1>
 <h3 align="center">A Passionate SQA engineer from Bangladesh.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s4bb1r" alt="s4bb1r" /></a> </p>
-
+<img align="right" alt="Testing" width="400" src="https://qatestingxperts.weebly.com/uploads/1/2/0/7/120765765/published/bug-fixing-qa.gif?1532528691">
 - 🔭 I’m currently working for **Brain Station-23**
 
 - 🌱 I’m currently learning **Ethical Hacking**
